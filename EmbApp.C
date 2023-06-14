@@ -64,8 +64,8 @@ int main(){
 			if(s=='y' || s=='Y'){
 				printf("\n");
 				printf("Fin del programa\n");
-				printf("David Rivera Ramirez\n");
-				printf("Matricula: ES202107379 \n");
+				printf("David Riv\n");
+				printf("Matricula: ES20 \n");
 				
 				break;
 			}
